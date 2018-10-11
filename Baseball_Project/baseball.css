@@ -1,0 +1,120 @@
+#wrapper
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: #F0F0F0;
+  min-width: 700px;
+}
+
+header
+{
+  text-align: center;
+  background-color: #00008B;
+  color: #F0F0F0;
+  font-family: Verdana;
+}
+
+h1
+{
+  margin-bottom: 0;
+  line-height: 200%;
+  font-size: 3.5em;
+}
+
+nav
+{
+  text-align: center;
+  font-weight: bold;
+  background-color: #A9A9A9;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+body
+{
+  background-color: #DCDCDC;
+  color: #000000;
+  padding: 
+}
+
+main
+{
+  padding: .5em;
+}
+
+#Introduction
+{
+  text-align: center;
+  font-family: Georgia;
+  font-size: 1.5em;
+}
+
+#IntroP
+{
+  text-align: center;
+}
+
+nav a: link
+{
+  color: #000066;
+}
+
+nav a: visited
+{
+  color: #5280C5;
+}
+
+nav a: hover
+{
+  color: #3262A3;
+}
+
+img
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+dt
+{
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+img
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  Padding-bottom: 1em;
+}
+
+table
+{
+  margin: 1em;
+  border-collapse: collapse;
+  border-color: #00008B;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td, tr, th
+{
+  padding: 1em;
+  border-color: #00008B;
+  font-family: Verdana;
+}
+
+form
+{
+  text-align: center;
+}
+
+footer
+{
+  text-align: center;
+  background-color: #A9A9A9;
+  padding: .5em;
+}
